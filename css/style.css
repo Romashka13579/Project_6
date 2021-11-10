@@ -82,24 +82,27 @@ h1{
     background-color: rgb(53, 163, 49);
 }
 .blue2{
-    width: 28%;
-    height: 130px;
+    width: 22%;
+    height: 110px;
     background-color: blue;
     float: left;
     margin: 2.6666%;
+    padding: 3%;
 }
 .red2{
-    width: 28%;
-    height: 130px;
+    width: 22%;
+    height: 110px;
     background-color: rgb(255, 0, 0);
     float: left;
     margin: 2.6666%;
+    padding: 3%;
 }
 .green2{
-    width: 28%;
-    height: 130px;
+    width: 22%;
+    height: 110px;
     background-color: rgb(21, 247, 0);
     float: left;
     margin: 2.6666%;
+    padding: 3%;
 }
 
